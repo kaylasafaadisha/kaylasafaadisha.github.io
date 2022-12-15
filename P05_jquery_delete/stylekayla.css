@@ -1,0 +1,36 @@
+body {
+  background: #303030;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+  color: #ffffff;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #42d3ff;
+  color: #ffffff;
+  text-align: center;
+  padding: 8px; 
+  width: 10px;
+}
+
+td:hover {
+  background-color: #40a9de;
+}
+
+th:hover {
+  background-color: #40a9de;
+}
+.kategori {
+  background-color: #42c0ff;
+}
+.judul-page {
+  text-align: center;
+}
+
+.tabel {
+  border-collapse: collapse;
+  width: 100%;
+}

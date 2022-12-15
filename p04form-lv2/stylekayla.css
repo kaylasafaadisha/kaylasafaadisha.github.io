@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "poppins";
+  src: url("Poppins-Medium.otf");
+}
+
+body {
+  font-family: "poppins";
+}
+.judul {
+  font-family: "poppins";
+  font-size: 30px;
+  font-weight: bold;
+}
+
+
+.header img {
+  width: 100%;
+  height: auto;
+}
+
+.rule {
+  margin: 0px 0px 0px 1rem;
+  font-size: 25px;
+}
+
+
+.syarat {
+  padding-bottom: 1rem;
+  color: black;
+  margin: auto;
+}
+
+.header {
+  width: 100%;
+  height: auto;
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button a {
+  color: black;
+  font-family: "poppins";
+  text-decoration: none;
+}
+legend {
+  color: red;
+}
+
+select:hover {
+  background-color: #828282;
+}
+
+option:hover {
+  background-color: #828282;
+}
+
+input:hover {
+  background-color: #828282;
+}
+
+textarea:hover {
+  background-color: #828282;
+}
